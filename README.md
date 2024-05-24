@@ -75,6 +75,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Acknowledgments
 
-* This project was created as a fun way to practice Javascript programming.
+* This project was created as a fun way to practice Javascript and React programming.
 
 * Thanks to everyone who contributes to open-source projects and makes learning and collaboration possible.
