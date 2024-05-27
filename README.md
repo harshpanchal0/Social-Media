@@ -1,4 +1,24 @@
-# Getting Started with Create React App
+# Social Media
+ 
+**Welcome to the Social Media project! This is a modern, responsive social media application frontend built using React. The project aims to provide a seamless and engaging user experience, featuring functionalities similar to popular social media platforms.**
+
+## Features
+
+* Likes: Interact with posts by liking.
+
+* Responsive Design: Fully responsive layout for optimal viewing on all devices.
+
+* User Profiles: View user profiles, including profile pictures and bio.
+
+## Technologies Used
+
+* React: JavaScript library for building user interfaces.
+
+* React Router: Declarative routing for React applications.
+
+* CSS Modules: Scoped and maintainable CSS for styling.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
